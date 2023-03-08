@@ -2,6 +2,12 @@
 
 console.log("微信小程序基础");
 
+// ======= 导出对象 ============>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+// 2、接收TATest.wx.js 中 导出 ThinkingAPI 对象
+// var TATestObject = require("./TATest.wx.js");
+// console.log(TATestObject);
+// ======= 导出对象 ============>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
 App({
   onLaunch() {
     // 展示本地存储能力
