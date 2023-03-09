@@ -2,6 +2,9 @@
 
 console.log("微信小程序基础");
 
+// 执行WXMPSystemMethod.js 里面的内容
+require("./WXMPSystemMethod.js");
+
 // ======= 导出对象 ============>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 // 2、接收TATest.wx.js 中 导出 ThinkingAPI 对象
 // var TATestObject = require("./TATest.wx.js");
