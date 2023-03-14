@@ -5,6 +5,7 @@ console.log("微信小程序基础");
 // 执行WXMPSystemMethod.js 里面的内容
 require("./WXMPSystemMethod.js");
 require("./WXMPNetworkRequest.js");
+require("./WXMPLocalStorage.js");
 require("./WXMPLifecycle.js");
 
 // ======= 导出对象 ============>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
